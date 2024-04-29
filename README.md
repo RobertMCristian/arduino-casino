@@ -29,13 +29,18 @@ Each player takes turns rolling two dice.
 The LCD displays the sum of the dice rolls for each player.
 After both players have rolled, their totals are compared, and the winner is determined.
 The result is shown for 3 seconds before returning to the main menu.
+
+
 Setup:
 
-Connect the hardware components as per the provided circuit diagram.
-Upload the Arduino code to the Arduino Uno microcontroller.
-Power on the system and interact with the games using the joystick and RFID scanner.
-Note:
+-Connect the hardware components as per the provided circuit diagram.
 
+-Upload the Arduino code to the Arduino Uno microcontroller.
+
+-Power on the system and interact with the games using the joystick and RFID scanner.
+
+
+Note:
 Ensure that valid RFID cards are used for authentication.
 Follow proper safety precautions while handling electronic components and wiring.
 This project is for educational and entertainment purposes only and should not be used for real gambling.
