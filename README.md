@@ -10,6 +10,8 @@ Pressing the joystick button initiates the roulette wheel spin.
 The LCD displays a sequence of randomly generated numbers representing the roulette wheel spins.
 After 15 spins, the final number is displayed along with its color (red, black, or green).
 The result is shown for 3 seconds before returning to the main menu.
+
+
 Blackjack:
 Upon selecting the blackjack option from the menu, the game begins.
 The LCD displays the dealer's first card and a "?" for the second card.
@@ -19,6 +21,8 @@ The process continues until the user decides to stand or until the total exceeds
 After the user's turn, the dealer reveals their second card and draws cards until their total is 17 or higher.
 The final hands and totals are displayed, and the winner is determined.
 The result is shown for 3 seconds before returning to the main menu.
+
+
 Barbut:
 Upon selecting the barbut option from the menu, the game begins.
 Each player takes turns rolling two dice.
